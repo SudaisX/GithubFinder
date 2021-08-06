@@ -224,9 +224,13 @@ img {
 }
 
 .btn-sm {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     padding: 0.3rem 1rem;
     margin-right: 0.2rem;
+}
+
+.btn-sm:hover {
+    color: #ededed;
 }
 
 .badge {
@@ -298,7 +302,6 @@ img {
 }
 
 .btn:hover {
-    color: #ededed;
     opacity: 0.8;
 }
 
